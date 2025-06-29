@@ -1,0 +1,45 @@
+.layout {
+  min-height: 100vh;
+  background-color: #1e1832;
+}
+
+.header {
+  background-color: #7847f5;
+  padding: 1rem;
+}
+
+.title {
+  color: #ffffff;
+  margin: 0;
+}
+
+.content {
+  padding: 2rem;
+}
+
+.card {
+  background-color: #1e1832;
+  border: 1px solid #7847f5;
+  border-radius: 12px;
+}
+
+.controls {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.loadingContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+
+.noData {
+  text-align: center;
+  padding: 2rem;
+  color: #ffffff99;
+  font-size: x-large;
+}
