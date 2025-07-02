@@ -1,0 +1,32 @@
+.card {
+  background-color: #1e1832;
+  border: 1px solid #7847f5;
+  border-radius: 12px;
+  padding: 1rem 1.5rem;
+  color: #ffffff;
+  width: 240px;
+  text-align: center;
+  box-shadow: 0 0 10px #00000033;
+  justify-self: center;
+}
+
+.value {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.year {
+  font-size: 0.875rem;
+  color: #ffffff99;
+  margin-left: 0.5rem;
+}
+
+.change {
+  font-size: 1.25rem;
+  margin: 0.5rem 0;
+}
+
+.status {
+  font-size: 1rem;
+  color: #cccccc;
+}
